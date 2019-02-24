@@ -1,0 +1,33 @@
+.navBarTop {
+    width: 100%;
+    background:blue;
+    /* height: 150px; */
+    position: fixed;
+    font-size: 2rem;
+    color:white;
+    /* margin-bottom: 50px; */
+    white-space: nowrap;
+    z-index: 99;
+  }
+
+  ul {
+    display: block;
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px;
+    margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+  }
+
+  li {
+    display: inline-block;
+    padding: 20px 0;
+    width: 33.3%;
+    text-align: center;
+  }
+
+  a {
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+  }
