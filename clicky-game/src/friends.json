@@ -1,0 +1,63 @@
+[
+      {
+        "id": 1,
+        "name": "Beemo",
+        "image": "/images/beemo.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Bubblegum",
+        "image": "/images/Bubblegum.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Cinnamon Bun",
+        "image": "/images/cinnamon_bun.jpeg"
+      },
+      {
+        "id": 4,
+        "name": "Finn",
+        "image": "/images/Finn.png"
+      },
+      {
+        "id": 5,
+        "name": "Fionna",
+        "image": "/images/fionna.png"
+      },
+      {
+        "id": 6,
+        "name": "FlamePrincess",
+        "image": "/images/FlamePrincess.png"
+      },
+      {
+        "id": 7,
+        "name": "Ice King",
+        "image": "/images/Ice_King.png"
+      },
+      {
+        "id": 8,
+        "name": "Jake",
+        "image": "/images/jake.png"
+      },
+      {
+        "id": 9,
+        "name": "Lumpy Space",
+        "image": "/images/Lumpy_Space.png"
+      },
+      {
+        "id": 10,
+        "name": "Marceline",
+        "image": "/images/Marceline.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Prismo",
+        "image": "/images/prismo.jpeg"
+      },
+      {
+        "id": 12,
+        "name": "Rainicorn",
+        "image": "/images/rainicorn.png"
+      }                                        
+
+]
